@@ -4,7 +4,7 @@
 
 So far it all might sound a bit fancy, but making an app reactive using MobX boils down to just these three steps:
 
-## 1. Define your state and make it observable
+## 1.'observable'을 통해 state를 정의하세요
 
 Store state in any data structure you like; objects, array, classes.
 Cyclic data structures, references, it doesn't matter.
